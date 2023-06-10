@@ -14,9 +14,7 @@ To create a simple calculator built with React.
 5.Edit App.js and enter the HTML code in the return and render.
 
 ## Output:
-![Uploading image.png…]()
-
-![image](https://github.com/ShamRathan/React-Calculator/assets/93587823/cb3680a7-6569-4d5e-b073-b7635218472e)
+![image](https://github.com/ShamRathan/React-Calculator/assets/93587823/eebbdfa0-b234-4873-be3f-ed7b4b44f061)
 
 
 
